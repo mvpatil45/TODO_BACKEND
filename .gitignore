@@ -1,0 +1,13 @@
+# .gitignore
+
+# Virtual environment
+venv/
+
+# Database file
+db.sqlite3
+
+# Other temporary or system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
